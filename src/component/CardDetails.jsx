@@ -1,7 +1,7 @@
 import React from 'react'
 import style from "./Cardstyle.module.css"
 const CardDetails = ({details}) => {
-    console.log(details)
+   
   return (
     <div className={style.big_div} style={{backgroundColor:details.heading=="Amazon Gift"?"orange":"grey"}}>
         <div className={style.logo}>

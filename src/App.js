@@ -19,7 +19,7 @@ let apple ={
    case:"Case Study",
    heading:"Apple Gift",
    sub_heading:"Payment",
-   device:"Desktop - Mobile"
+   device:"MacOs - Mobile"
 }
 
 
