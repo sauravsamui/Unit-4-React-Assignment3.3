@@ -1,0 +1,25 @@
+.big_div{
+    width:50% ;
+    margin: auto;
+    padding: 30px 35px 20px 35px;
+    margin-top: 20px;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between ;
+    width:100%;
+    margin: auto;
+}
+.img{
+    width:130px;
+    height:100px;
+    border: none;
+    background-color: orange;
+}
+.case{
+   background-color: black;
+   color: white;
+   width: 98px;
+   padding: 10px 15px;
+}
